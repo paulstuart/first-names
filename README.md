@@ -8,3 +8,10 @@ Note that downloading that file programatically appears to be blocked, and must 
 
 For convenience, there is a pre-processed csv file of all years (with the year as the first field in the csv data),
 it is compressed using zstd to minimize the size.
+
+The resulting database contains:
+
+* year_of_birth
+* first_name
+* gender
+* count
